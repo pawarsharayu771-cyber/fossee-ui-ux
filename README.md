@@ -7,6 +7,8 @@ This project focuses on redesigning the existing FOSSEE Workshop Booking platfor
 The original platform was functional but minimal. This redesign transforms it into a **clean, intuitive, and mobile-friendly experience** tailored primarily for students.
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 135811" src="https://github.com/user-attachments/assets/55d05ae5-ea73-46d1-bc31-3f509039ccc0" />
+
 
 ## 🛠️ Getting Started
 
