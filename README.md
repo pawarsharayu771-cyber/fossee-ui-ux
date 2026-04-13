@@ -10,6 +10,8 @@ The original platform was functional but minimal. This redesign transforms it in
 <img width="1920" height="1080" alt="Screenshot 2026-04-13 135811" src="https://github.com/user-attachments/assets/55d05ae5-ea73-46d1-bc31-3f509039ccc0" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-13 135741" src="https://github.com/user-attachments/assets/ed479275-b297-4cfc-9454-0d27fd3a87e3" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-13 135741" src="https://github.com/user-attachments/assets/0926b334-54f7-4f94-b338-f7e768e5e101" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 135801" src="https://github.com/user-attachments/assets/d8d35fa5-426f-42a8-8c7a-88014db9a336" />
+
 
 
 
