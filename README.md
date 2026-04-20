@@ -175,7 +175,7 @@ A good UI doesn’t shout. It quietly guides. And that’s exactly what this red
 
 ## 📬 Submission
 
-GitHub Repository: *(Add your repo link here)*
+GitHub Repository: *(https://.com/pawarsharayu771-cyber/fossee-ui-ux)*
 
 Email sent to: [pythonsupport@fossee.in](mailto:pythonsupport@fossee.in)
 
